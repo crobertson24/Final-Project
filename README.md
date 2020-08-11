@@ -25,14 +25,14 @@ Process:
 		- MSZoning (Identify the general zoning class of the sale)
 
 	Other Parameters:
-	Amenities (fireplace, pool, porch)
-	BldgType: Type of dwelling 
-	Utilities available (electricity, gas, water)
-	HouseStyle: Style of dwelling
-	SaleType: Type of sale
-	Neighborhood
-	Heating: Type of Heating
-	Lot configuration
+	 	- Amenities (fireplace, pool, porch)
+		- BldgType: Type of dwelling 
+		- Utilities available (electricity, gas, water)
+		- HouseStyle: Style of dwelling
+		- SaleType: Type of sale
+		- Neighborhood
+		- Heating: Type of Heating
+		- Lot configuration
 
 Next steps, looking ahead/ stretch goal:
 If our team was able to continue this project and we had access to more data, we might try applying these models and testing to different geographical locations to compare and contrast with our original region.
