@@ -25,7 +25,8 @@ Process:
 		- MSZoning (Identify the general zoning class of the sale)
 
 	Other Parameters:
-	 	- Amenities (fireplace, pool, porch)
+	 
+		- Amenities (fireplace, pool, porch)
 		- BldgType: Type of dwelling 
 		- Utilities available (electricity, gas, water)
 		- HouseStyle: Style of dwelling
