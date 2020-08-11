@@ -35,5 +35,5 @@ Process:
 		- Heating: Type of Heating
 		- Lot configuration
 
-Next steps, looking ahead/ stretch goal:
+Looking ahead/ stretch goal:
 If our team was able to continue this project and we had access to more data, we might try applying these models and testing to different geographical locations to compare and contrast with our original region.
