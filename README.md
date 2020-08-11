@@ -1,6 +1,7 @@
 # Final-Project
 
 Final Project Proposal: What Parameters Affect Housing Prices in Ames, Iowa?
+
 Eduardo Panneflek, Christina Rawls, Christine Robertson
 
 Data set: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
